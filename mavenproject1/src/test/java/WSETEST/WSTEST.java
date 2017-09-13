@@ -18,6 +18,7 @@ import static org.junit.Assert.*;
  * @author Pamela
  */
 public class WSTEST {
+    //
     SW request = new SW();
     public WSTEST() {
     }
